@@ -1,0 +1,33 @@
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 61.6 MB/512 MB - Pratiksha_Project > Start upgrade from 0.0.0
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 62.0 MB/512 MB - Pratiksha_Project > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 62.0 MB/512 MB - Pratiksha_Project > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 62.0 MB/512 MB - Pratiksha_Project > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 62.0 MB/512 MB - Pratiksha_Project > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 62.0 MB/512 MB - Pratiksha_Project > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 62.0 MB/512 MB - Pratiksha_Project > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 62.0 MB/512 MB - Pratiksha_Project > Backing up options of 0.0.0
+22-12-2023 05:02:36 - INFO  - 8.0.6 - 62.0 MB/512 MB - Pratiksha_Project > End
